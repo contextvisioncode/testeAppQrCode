@@ -22,6 +22,12 @@
       "src": "https://placehold.co/512x512/10b981/ffffff.png?text=QR&v=8",
       "sizes": "512x512",
       "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "https://placehold.co/512x512/10b981/ffffff.png?text=QR&v=8",
+      "sizes": "512x512",
+      "type": "image/png",
       "purpose": "any"
     },
     {
